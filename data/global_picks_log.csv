@@ -1,0 +1,79 @@
+logged_at,fixture_id,kickoff_utc,continent,country,league,home,away,family,selection,spec,prob,free_pick,status,score
+2026-09-27T20:33:43+00:00,1549798,2026-09-27T21:00:00+00:00,South America,Colombia,Primera A,Jaguares,Alianza Valledupar,Team O/U,Alianza Valledupar Under 2.5 goals,goals|away|Under|2.5,0.921,no,won,1-2
+2026-09-27T20:33:43+00:00,1559650,2026-09-27T21:00:00+00:00,North America,Guatemala,Liga Nacional,Mixco,Antigua GFC,Asian Handicap,Mixco +1.5,ah|home|1.5,0.8777,no,won,3-1
+2026-09-27T20:33:43+00:00,1641141,2026-09-27T21:00:00+00:00,South America,Uruguay,Primera División,Defensor Sporting,Danubio,Asian Handicap,Defensor Sporting +1.5,ah|home|1.5,0.9207,no,won,1-0
+2026-09-27T20:33:43+00:00,1490510,2026-09-27T23:00:00+00:00,North America,USA,Major League Soccer,Columbus Crew,Inter Miami,Goals O/U,Over 1.5 goals,goals|total|Over|1.5,0.9313,no,won,2-1
+2026-09-27T20:33:43+00:00,1494016,2026-09-27T23:00:00+00:00,North America,USA,USL League One,One Knoxville,Westchester SC,Team O/U,Westchester SC Under 2.5 goals,goals|away|Under|2.5,0.9134,no,won,0-0
+2026-09-27T20:33:43+00:00,1549797,2026-09-27T23:05:00+00:00,South America,Colombia,Primera A,Fortaleza FC,Deportes Tolima,Goals O/U,Under 4.5 goals,goals|total|Under|4.5,0.9257,no,won,2-2
+2026-09-27T20:33:43+00:00,1550982,2026-09-28T01:00:00+00:00,North America,Mexico,Liga MX,Leon,FC Juarez,Asian Handicap,Leon +1.5,ah|home|1.5,0.9236,yes,won,2-1
+2026-09-27T20:33:43+00:00,1549706,2026-09-28T01:10:00+00:00,South America,Colombia,Primera A,Deportivo Cali,Águilas Doradas,Goals O/U,Under 4.5 goals,goals|total|Under|4.5,0.9071,no,won,2-0
+2026-09-27T20:33:43+00:00,1550983,2026-09-28T03:10:00+00:00,North America,Mexico,Liga MX,Necaxa,Club America,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9336,no,won,2-4
+2026-09-27T20:33:43+00:00,1581920,2026-09-28T10:00:00+00:00,Europe,Ukraine,Persha Liga,Polissya II,Kolos Kovalivka II,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9379,no,won,0-3
+2026-09-27T20:33:43+00:00,1629000,2026-09-28T10:25:00+00:00,World,World,Friendlies,Japan,Venezuela,Team O/U,Japan Over 0.5 goals,goals|home|Over|0.5,0.9465,yes,won,2-1
+2026-09-27T20:33:43+00:00,1628999,2026-09-28T11:00:00+00:00,World,World,Friendlies,South Korea,Uruguay,Half-Time Goals O/U,1st half Under 2.5 goals,ht_goals|Under|2.5,0.9254,yes,lost,1-4
+2026-09-27T20:33:43+00:00,1638596,2026-09-28T12:00:00+00:00,World,World,Friendlies,Tajikistan,Palestine,Goals O/U,Under 4.5 goals,goals|total|Under|4.5,0.9422,no,lost,2-4
+2026-09-27T20:33:43+00:00,1640507,2026-09-28T12:00:00+00:00,World,World,Friendlies,Kyrgyzstan,Lebanon,Team O/U,Lebanon Under 2.5 goals,goals|away|Under|2.5,0.9434,no,pending,
+2026-09-27T20:33:43+00:00,1554171,2026-09-28T13:00:00+00:00,Europe,Serbia,Prva Liga,Grafičar,Teleoptik,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9386,no,won,4-1
+2026-09-27T20:33:43+00:00,1636926,2026-09-28T13:00:00+00:00,Europe,Greece,Super League 2,Kallithea,Asteras Tripolis II,Team O/U,Asteras Tripolis II Under 2.5 goals,goals|away|Under|2.5,0.9346,no,won,2-0
+2026-09-27T20:33:43+00:00,1636929,2026-09-28T13:00:00+00:00,Europe,Greece,Super League 2,Marko,Panthrakikos,Team O/U,Marko Under 2.5 goals,goals|home|Under|2.5,0.9414,no,won,2-1
+2026-09-27T20:33:43+00:00,1641853,2026-09-28T15:30:00+00:00,Africa,Burkina-Faso,Ligue 1,Vitesse,ASFA-Yennenga,Goals O/U,Under 4.5 goals,goals|total|Under|4.5,0.9421,no,won,1-0
+2026-09-27T20:33:43+00:00,1554170,2026-09-28T16:00:00+00:00,Europe,Serbia,Prva Liga,Dubočica,Javor,Asian Handicap,Javor +1.5,ah|away|1.5,0.8645,no,won,1-1
+2026-09-27T20:33:43+00:00,1554173,2026-09-28T16:00:00+00:00,Europe,Serbia,Prva Liga,Naftagas,Jedinstvo Ub,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9456,no,won,3-0
+2026-09-27T20:33:43+00:00,1554319,2026-09-28T16:00:00+00:00,Europe,Serbia,Prva Liga,OFK Bor 1919,Metalac GM,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9194,no,won,0-2
+2026-09-27T20:33:43+00:00,1558948,2026-09-28T17:00:00+00:00,Europe,Slovenia,2. SNL,Rudar,Dravinja,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9497,yes,won,3-1
+2026-09-27T20:33:43+00:00,1554172,2026-09-28T18:00:00+00:00,Europe,Serbia,Prva Liga,Loznica,FK Spartak Zdrepceva KRV,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9348,no,won,2-0
+2026-09-27T20:33:43+00:00,1569943,2026-09-28T18:30:00+00:00,Europe,Spain,Segunda División,Leganes,Castellón,Team O/U,Leganes Under 2.5 goals,goals|home|Under|2.5,0.9173,no,won,0-2
+2026-09-27T20:33:43+00:00,1632017,2026-09-28T19:30:00+00:00,South America,Paraguay,Division Profesional - Clausura,Club Sp. San Lorenzo,Deportivo Recoleta,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.93,no,lost,0-0
+2026-09-27T20:34:28+00:00,1632014,2026-09-28T22:00:00+00:00,South America,Paraguay,Division Profesional - Clausura,Libertad Asuncion,Olimpia,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9305,no,won,0-1
+2026-09-27T20:34:28+00:00,1641142,2026-09-28T23:00:00+00:00,South America,Uruguay,Primera División,Wanderers,Albion FC,Team O/U,Albion FC Under 2.5 goals,goals|away|Under|2.5,0.9118,no,won,2-1
+2026-09-27T20:34:28+00:00,1583654,2026-09-29T10:00:00+00:00,World,World,Friendlies,Australia,Brazil,Goals O/U,Under 4.5 goals,goals|total|Under|4.5,0.9137,no,lost,2-4
+2026-09-27T20:34:28+00:00,1528780,2026-09-29T11:00:00+00:00,Asia,China,League One,Wuxi Wugou,Ningbo Professional,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9083,no,won,1-0
+2026-09-27T20:34:28+00:00,1589736,2026-09-29T14:00:00+00:00,Europe,Slovenia,3. SNL - East,Podvinci,Ljutomer,Asian Handicap,Podvinci +1.5,ah|home|1.5,0.8764,no,pending,
+2026-09-27T20:34:28+00:00,1554175,2026-09-29T16:00:00+00:00,Europe,Serbia,Prva Liga,FK Vozdovac,Napredak,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9324,no,lost,0-0
+2026-09-27T20:34:28+00:00,1632350,2026-09-29T16:00:00+00:00,World,World,Friendlies,Russia,Iran,Team O/U,Iran Under 2.5 goals,goals|away|Under|2.5,0.9277,no,won,2-0
+2026-09-27T20:34:28+00:00,1585266,2026-09-29T18:00:00+00:00,Europe,England,National League,Boreham Wood,Kidderminster Harriers,Team O/U,Kidderminster Harriers Under 2.5 goals,goals|away|Under|2.5,0.9416,no,won,3-1
+2026-09-27T20:34:28+00:00,1575955,2026-09-29T18:45:00+00:00,Europe,Wales,Premier League,Cardiff MET,Haverfordwest County AFC,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9282,no,won,1-0
+2026-09-27T20:34:28+00:00,1585257,2026-09-29T18:45:00+00:00,Europe,England,National League,AFC Fylde,Carlisle,Goals O/U,Over 1.5 goals,goals|total|Over|1.5,0.8724,no,won,0-2
+2026-09-27T20:34:28+00:00,1585258,2026-09-29T18:45:00+00:00,Europe,England,National League,Barrow,Scunthorpe,Goals O/U,Over 1.5 goals,goals|total|Over|1.5,0.8488,no,won,3-0
+2026-09-27T20:34:28+00:00,1585259,2026-09-29T18:45:00+00:00,Europe,England,National League,FC Halifax Town,Boston United,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9396,no,won,1-1
+2026-09-27T20:34:28+00:00,1585260,2026-09-29T18:45:00+00:00,Europe,England,National League,Forest Green,Wealdstone,Asian Handicap,Forest Green +1.5,ah|home|1.5,0.8985,no,won,1-1
+2026-09-27T20:34:28+00:00,1585261,2026-09-29T18:45:00+00:00,Europe,England,National League,Gateshead,Altrincham,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9443,no,won,0-1
+2026-09-27T20:34:28+00:00,1585262,2026-09-29T18:45:00+00:00,Europe,England,National League,Hartlepool,Harrogate Town,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9386,no,won,0-1
+2026-09-27T20:34:28+00:00,1585263,2026-09-29T18:45:00+00:00,Europe,England,National League,AFC Hornchurch,Aldershot Town,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9337,no,won,2-1
+2026-09-27T20:34:28+00:00,1585264,2026-09-29T18:45:00+00:00,Europe,England,National League,Woking,Solihull Moors,Team O/U,Solihull Moors Under 2.5 goals,goals|away|Under|2.5,0.9066,no,lost,2-4
+2026-09-27T20:34:28+00:00,1585265,2026-09-29T18:45:00+00:00,Europe,England,National League,Yeovil Town,Worthing,Asian Handicap,Worthing +2.0,ah|away|2.0,0.8367,no,won,1-1
+2026-09-27T20:34:28+00:00,1549712,2026-09-29T20:30:00+00:00,South America,Colombia,Primera A,Deportivo Pereira,Santa Fe,Team O/U,Deportivo Pereira Under 2.5 goals,goals|home|Under|2.5,0.9464,no,won,1-2
+2026-09-27T20:39:52+00:00,1549797,2026-09-27T23:05:00+00:00,South America,Colombia,Primera A,Fortaleza FC,Deportes Tolima,Half-Time Goals O/U,1st half Under 2.5 goals,ht_goals|Under|2.5,0.9095,yes,won,2-2
+2026-09-29T02:47:18+00:00,1575955,2026-09-29T18:45:00+00:00,Europe,Wales,Premier League,Cardiff MET,Haverfordwest County AFC,Half-Time Goals O/U,1st half Under 2.5 goals,ht_goals|Under|2.5,0.877,yes,won,1-0
+2026-09-29T02:47:18+00:00,1549719,2026-09-30T01:05:00+00:00,South America,Colombia,Primera A,Independiente Medellin,Millonarios,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.937,no,pending,
+2026-09-29T17:30:50+00:00,1621348,2026-09-30T11:30:00+00:00,Europe,Israel,Liga Alef,Hapoel Tirat HaCarmel,Tzeirei Umm al-Fahm,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9315,no,pending,
+2026-09-29T17:30:50+00:00,1621351,2026-09-30T12:00:00+00:00,Europe,Israel,Liga Alef,Maccabi Neve Sha'anan,Tira,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9371,no,pending,
+2026-09-29T17:30:50+00:00,1621345,2026-09-30T12:30:00+00:00,Europe,Israel,Liga Alef,Hapoel Ironi Arraba,Hapoel Migdal HaEmek,Team O/U,Hapoel Migdal HaEmek Over 0.5 goals,goals|away|Over|0.5,0.9001,no,pending,
+2026-09-29T17:30:50+00:00,1621628,2026-09-30T12:30:00+00:00,Europe,Israel,Liga Alef,Shimshon Tel Aviv,Hapoel Ramat HaSharon,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9424,no,pending,
+2026-09-29T17:30:50+00:00,1621626,2026-09-30T13:00:00+00:00,Europe,Israel,Liga Alef,Maccabi Kiryat Malachi,Hapoel Herzliya,Half-Time Goals O/U,1st half Under 2.5 goals,ht_goals|Under|2.5,0.9148,yes,pending,
+2026-09-29T17:30:50+00:00,1621347,2026-09-30T14:30:00+00:00,Europe,Israel,Liga Alef,Hapoel Bnei Musmus,Maccabi K. Ata Bialik,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9379,no,pending,
+2026-09-29T17:30:50+00:00,1602117,2026-09-30T15:00:00+00:00,Africa,Ghana,Premier League,Medeama,Port City,FT Result,Medeama to win,1x2|Home,0.8584,yes,pending,
+2026-09-29T17:30:50+00:00,1536640,2026-09-30T16:00:00+00:00,Europe,Russia,Second League - Group 3,Ryazan,Zenit Penza,Goals O/U,Under 4.5 goals,goals|total|Under|4.5,0.9194,no,pending,
+2026-09-29T17:30:50+00:00,1589715,2026-09-30T16:30:00+00:00,Europe,Slovenia,3. SNL - East,Dobrovce,Hajdina,Goals O/U,Over 1.5 goals,goals|total|Over|1.5,0.8636,no,pending,
+2026-09-29T17:30:50+00:00,1621627,2026-09-30T16:50:00+00:00,Europe,Israel,Liga Alef,Nordia Jerusalem,Hapoel Hadera,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9493,yes,pending,
+2026-09-29T17:30:50+00:00,1621352,2026-09-30T16:55:00+00:00,Europe,Israel,Liga Alef,Hapoel Nazareth Illit,Tzeirey Tamra,Asian Handicap,Hapoel Nazareth Illit +1.5,ah|home|1.5,0.9292,yes,pending,
+2026-09-29T17:30:50+00:00,1621625,2026-09-30T17:00:00+00:00,Europe,Israel,Liga Alef,Maccabi Ashdod,Holon Yermiyahu,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9326,no,pending,
+2026-09-29T17:30:50+00:00,1621346,2026-09-30T17:30:00+00:00,Europe,Israel,Liga Alef,Hapoel Beit Shean,Ironi Baka El Garbiya,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9269,no,pending,
+2026-09-30T00:19:46+00:00,1574365,2026-09-30T18:00:00+00:00,Europe,Switzerland,1. Liga Promotion,Kreuzlingen,Brühl,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9233,no,pending,
+2026-09-30T00:19:46+00:00,1579820,2026-09-30T18:00:00+00:00,Europe,Belgium,First Amateur Division,RWDM,Rochefort,Asian Handicap,RWDM +1.5,ah|home|1.5,0.8787,no,pending,
+2026-09-30T00:19:46+00:00,1579822,2026-09-30T18:00:00+00:00,Europe,Belgium,First Amateur Division,Sporting Charleroi II,Habay-la-Neuve,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9198,no,pending,
+2026-09-30T00:19:46+00:00,1579954,2026-09-30T18:00:00+00:00,Europe,Belgium,First Amateur Division,Spouwen-Mopertingen,Heist,Team O/U,Spouwen-Mopertingen Over 0.5 goals,goals|home|Over|0.5,0.9279,no,pending,
+2026-09-30T00:19:46+00:00,1579958,2026-09-30T18:00:00+00:00,Europe,Belgium,First Amateur Division,Merelbeke,Dessel Sport,Goals O/U,Over 1.5 goals,goals|total|Over|1.5,0.899,no,pending,
+2026-09-30T00:19:46+00:00,1579959,2026-09-30T18:00:00+00:00,Europe,Belgium,First Amateur Division,Roeselare Daisel,Thes Sport,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9257,no,pending,
+2026-09-30T00:19:46+00:00,1579960,2026-09-30T18:00:00+00:00,Europe,Belgium,First Amateur Division,Zelzate,Knokke,Asian Handicap,Knokke +2.0,ah|away|2.0,0.9051,no,pending,
+2026-09-30T00:19:46+00:00,1621629,2026-09-30T18:00:00+00:00,Europe,Israel,Liga Alef,Tzeirey Tira,FC Jerusalem,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9479,no,pending,
+2026-09-30T00:19:46+00:00,1585267,2026-09-30T18:45:00+00:00,Europe,England,National League,Eastleigh,Southend,Asian Handicap,Southend +2.0,ah|away|2.0,0.9045,no,pending,
+2026-09-30T00:19:46+00:00,1585268,2026-09-30T18:45:00+00:00,Europe,England,National League,Tamworth,Sutton Utd,Goals O/U,Over 1.5 goals,goals|total|Over|1.5,0.8673,no,pending,
+2026-09-30T00:19:46+00:00,1549493,2026-09-30T20:00:00+00:00,South America,Peru,Primera División,Cienciano,Club Deportivo Los Chankas,Goals O/U,Over 1.5 goals,goals|total|Over|1.5,0.9224,no,pending,
+2026-09-30T00:19:46+00:00,1493716,2026-09-30T23:00:00+00:00,North America,USA,USL Championship,Brooklyn,Detroit City,Goals O/U,Under 4.5 goals,goals|total|Under|4.5,0.932,no,pending,
+2026-09-30T00:19:46+00:00,1493718,2026-09-30T23:00:00+00:00,North America,USA,USL Championship,Miami FC,Sporting JAX,Team O/U,Miami FC Over 0.5 goals,goals|home|Over|0.5,0.927,no,pending,
+2026-09-30T00:19:46+00:00,1517357,2026-09-30T23:00:00+00:00,North America,Canada,Canadian Premier League,Atlético Ottawa,Cavalry FC,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9324,no,pending,
+2026-09-30T00:19:46+00:00,1611274,2026-09-30T23:00:00+00:00,South America,Uruguay,Primera División,Atletico Torque,Penarol,Goals O/U,Over 0.5 goals,goals|total|Over|0.5,0.9392,no,pending,
+2026-09-30T00:19:46+00:00,1490500,2026-09-30T23:30:00+00:00,North America,USA,Major League Soccer,New York Red Bulls,St. Louis City,Asian Handicap,St. Louis City +2.0,ah|away|2.0,0.8579,no,pending,
+2026-09-30T00:19:46+00:00,1493719,2026-09-30T23:30:00+00:00,North America,USA,USL Championship,Rhode Island,Indy Eleven,Team O/U,Indy Eleven Under 2.5 goals,goals|away|Under|2.5,0.9393,yes,pending,
+2026-09-30T00:19:46+00:00,1493717,2026-10-01T00:00:00+00:00,North America,USA,USL Championship,FC Tulsa,New Mexico United,Team O/U,New Mexico United Under 2.5 goals,goals|away|Under|2.5,0.9172,no,pending,
