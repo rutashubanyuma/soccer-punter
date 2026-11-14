@@ -1,8 +1,5 @@
-# Soccer Punter
+# The Sports Punter
 
-Public web page for the soccer picks, deployed on Streamlit Community Cloud.
+Free picks are no longer published on GitHub.
 
-- `streamlit_app.py` - the page
-- `data/global_picks_log.csv` - the picks, updated every night by the midnight routine
-
-Run locally: `pip install -r requirements.txt && streamlit run streamlit_app.py`
+Get them on the app: **https://sportspunter.co.tz**
