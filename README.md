@@ -1,5 +1,7 @@
 # The Sports Punter
 
-Free picks are no longer published on GitHub.
+### 👉 [Visit sportspunter.co.tz](https://sportspunter.co.tz)
 
-Get them on the app: **https://sportspunter.co.tz**
+Free picks are no longer published on GitHub. Open the app for today's free picks, jackpots and results:
+
+**[https://sportspunter.co.tz](https://sportspunter.co.tz)**
